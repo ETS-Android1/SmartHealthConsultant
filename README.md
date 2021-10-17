@@ -1,1 +1,1 @@
-# SmartHealthConsultant
+Smart Health Consultant is an android application which will help to predict common diseases and suggest remedies. It can also suggest physician and provode their information according to the predicted disease.
